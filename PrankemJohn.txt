@@ -1,0 +1,16 @@
+GUI d
+DELAY 500
+GUI r
+DELAY 500
+STRING notepad.exe
+DELAY 100
+ENTER
+DELAY 750
+STRING 
+I have full control over your computer
+don't try to do anything
+keyloggers and other malware have been installed that will provide me constant surveillance over you
+good luck
+END_STRING
+DELAY 100
+ENTER

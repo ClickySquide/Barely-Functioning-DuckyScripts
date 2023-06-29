@@ -1,0 +1,11 @@
+GUI d
+DELAY 500
+GUI r
+DELAY 500
+STRING microsoftedge.exe
+ENTER
+DELAY 500
+STRING https://www.youtube.com/watch?v=tRaq4aYPzCc&t=585s&ab_channel=Veritasium
+ENTER
+DELAY 2000
+SPACE
