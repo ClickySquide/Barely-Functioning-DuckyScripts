@@ -1,0 +1,28 @@
+GUI r
+DELAY 200
+STRING notepad
+DELAY 50
+ENTER
+DELAY 400
+STRING         _____
+ENTER
+STRING        |     |
+ENTER
+STRING       _|_____|_
+ENTER
+STRING      |_________|
+ENTER
+STRING        /     \      
+ENTER
+STRING       | O   O |
+ENTER
+STRING      /\  ___  /\
+ENTER
+STRING     /  \_____/  \
+ENTER
+STRING         |   |
+ENTER
+STRING         |   |
+ENTER
+STRING         |   |
+ENTER

@@ -1,0 +1,10 @@
+REM Speak with an AI
+
+GUI r
+DELAY 100
+STRING wsl
+DELAY 50
+ENTER
+DELAY 500
+STRING ollama run llama2
+ENTER
